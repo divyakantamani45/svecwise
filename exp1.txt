@@ -1,4 +1,8 @@
 hello
 good morning to all
 this is divya
+<<<<<<< HEAD
 this is to check
+=======
+this is to verify
+>>>>>>> 4cacc198cb7d233686eddbfca1eec747f9b16c91
